@@ -1,0 +1,38 @@
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: orange;
+}
+section{
+    height: 500px;
+}
+.half-width{
+    width: 30%;
+    margin-left: 15%;
+    padding-top: 5%;
+    float: left;
+    margin-bottom: 10%;
+}
+.half-width img{
+    width: 500px;
+    height: 500px;
+    margin-right: 5%;
+}
+.top-banner{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+}
+.what-area{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
