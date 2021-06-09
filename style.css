@@ -7,14 +7,13 @@ h2{
     color: orange;
 }
 section{
-    height: 500px;
+    height: 700px;
 }
 .half-width{
-    width: 30%;
-    margin-left: 15%;
+    width: 35%;
+    margin-left: 10%;
     padding-top: 5%;
     float: left;
-    margin-bottom: 10%;
 }
 .half-width img{
     width: 500px;
@@ -35,4 +34,34 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+#new{
+    text-align: center;
+}
+.new-fol{
+    width: 20%;
+    padding-left: 10%;
+    float: left;
+}
+.new-fol img{
+    width: 400px;
+    height: 400px;
+}
+#old{
+    color: gray;
+    padding-top: 1px;
+}
+h3{
+    padding-bottom: 0px;
+}
+.link-g{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 20px;
+    color: white;
+}
+footer{
+    padding-top: 10px;
+    text-align: center;
 }
